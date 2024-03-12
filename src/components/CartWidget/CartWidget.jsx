@@ -6,11 +6,11 @@ const Cardwidget= () =>{
     
     return(
     <>
-    <div>
+    <button>
         <img src={carritooo} alt="carro-compras" height={30}/ >
         0
 
-    </div>
+    </button>
     </>
     )
 }
