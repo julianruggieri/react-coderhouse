@@ -6,28 +6,28 @@ const products = [
            "id": "1",
            "name": "Camiseta Coach Titular",
            "price": 47000,
-           "category": "Principal",
-           "img": "./assets/productos-pincha/camiseta-titular.png",
+           "category": "jugadores",
+           "img": "https://pinchamania.caestudiantes.com.ar/wp-content/uploads/2023/06/camiseta-rayada.png",
            "stock": 20,
-           "description": "Clásica pizza con salsa de tomate, mozzarella y albahaca fresca."
+           "description": "Camiseta titular de jugadores de campo. Temporada 2024."
          },
          {
            "id": "2",
            "name": "Camiseta Coach Arquero Roja",
            "price": 40000,
-           "category": "Sandwiches",
-           "img": "./assets/productos-pincha/camiseta-arquero.png",
+           "category": "arqueros",
+           "img": "https://pinchamania.caestudiantes.com.ar/wp-content/uploads/2023/06/2-1.png",
            "stock": 15,
-           "description": "Hamburguesa gourmet con carne de res, queso cheddar, tocino y salsa especial."
+           "description": "Camiseta Titular de arquero roja. Temporada 2024."
          },
          {
            "id": "3",
            "name": "Camiseta Coach Alternativa Verde",
            "price": 45000,
-           "category": "Principal",
-           "img": "./assets/productos-pincha/camiseta-alternativa.png",
+           "category": "jugadores",
+           "img": "https://pinchamania.caestudiantes.com.ar/wp-content/uploads/2023/06/4-1.png",
            "stock": 25,
-           "description": "Ensalada fresca con tomate, pepino, aceitunas, queso feta y aderezo de aceituna."
+           "description": "Camiseta alternativa de jugadores de campo. Temporada 2024."
          }
 ]
 

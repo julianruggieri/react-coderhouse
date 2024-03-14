@@ -1,11 +1,13 @@
+import Item from "../Item/Item"
+
 
 const ItemList = ({products})=>{
     return (
 
-        <section>
+        <section style={{display:"flex",padding:20}}>
             { 
             products.map(product => {
-                 return <p key={product.id}>{product.name}</p>
+                 return <Item key={product.id}{... product}></Item>
                  }
             )
             }
